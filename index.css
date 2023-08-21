@@ -1,0 +1,142 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.nav-portofolio {
+    margin-bottom: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #c5cae9;
+    font-size: 19px;
+}
+
+.about {
+    margin-top: 100px;
+}
+
+
+.visit {
+    justify-content: center;
+}
+
+.home {
+    overflow: hidden;
+}
+
+.row-home {
+    height: 100vh;
+    background-color: #9fa8da;
+}
+
+.col-home {
+    padding-top: 200px;
+}
+
+.col-text-home {
+    font-size: 50px;
+}
+
+.col-text-position {
+    font-size: 35px;
+}
+
+.about {
+    padding-top: 90px;
+    padding-bottom: 80px;
+}
+
+.about p {
+    text-align: justify;
+}
+
+.html {
+    background-color: #e34f26;
+}
+
+.css {
+    background-color: #8d69a6;
+}
+
+.javascript {
+    background-color: #f0db4f;
+}
+
+.reactjs {
+    background-color: #61DBFB;
+}
+
+.tailwindcss {
+    background-color: #d6c5ff;
+}
+
+.primereact {
+    background-color: cornflowerblue;
+}
+
+.nodejs {
+    background-color: #20dab3;
+}
+
+.expressjs {
+    background-color: #ffbd9b;
+}
+
+.postgresql{
+
+}
+
+.mysql{
+
+}
+
+.github{
+
+}
+
+.text-about-desc {
+    font-size: 20px;
+}
+
+.text-about-skill {
+    font-size: 20px;
+}
+
+.title-project {
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+
+.year {
+    padding: 2px;
+    padding-bottom: 4px;
+    letter-spacing: 1px;
+    width: 70px;
+    border-radius: 5px;
+    color: black;
+    background-color: #9fa8da;
+    margin-bottom: 10px;
+    margin-top: -10px;
+}
+
+.text-project p {
+    text-align: justify;
+}
+
+.tech-stack span {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    letter-spacing: 1px;
+    width: 100px;
+    border-radius: 5px;
+    color: black;
+}
+
+#contact {
+    /* padding: 10vh 10vw 10vh 10vw */
+    margin-top: 200px;
+    background-color: #9fa8da;
+    padding-top: 90px;
+    padding-left: 250px;
+    padding-right: 90px;
+    padding-bottom: 40px;
+}
